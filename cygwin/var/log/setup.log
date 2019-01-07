@@ -1,0 +1,358 @@
+2017/05/05 05:56:13 Starting cygwin install, version 2.877
+2017/05/05 05:56:13 User has backup/restore rights
+2017/05/05 05:56:13 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2017/05/05 05:56:13 Current Directory: E:\cygwin
+2017/05/05 05:56:13 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/05/05 05:56:16 source: network install
+2017/05/05 05:56:18 root: C:\cygwin64 system
+2017/05/05 05:56:26 root: C:\cygwin64 system
+2017/05/05 05:56:28 Selected local directory: E:\cygwin
+2017/05/05 05:56:31 Selected local directory: E:\cygwin
+2017/05/05 05:56:32 net: Direct
+2017/05/05 05:56:42 site: http://mirrors.kernel.org/sourceware/cygwin/
+2017/05/05 05:56:45 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2017/05/05 05:56:47 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2017/05/05 05:57:52 Adding required dependency autoconf2.1: Selecting version 2.13-12 for installation.
+2017/05/05 05:57:52 Adding required dependency autoconf2.5: Selecting version 2.69-3 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.10: Selecting version 1.10.3-2 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.11: Selecting version 1.11.6-2 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.12: Selecting version 1.12.6-2 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.13: Selecting version 1.13.4-1 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.14: Selecting version 1.14.1-2 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.15: Selecting version 1.15-1 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.4: Selecting version 1.4p6-11 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.5: Selecting version 1.5-11 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.6: Selecting version 1.6.3-12 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.7: Selecting version 1.7.9-11 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.8: Selecting version 1.8.5-11 for installation.
+2017/05/05 05:57:52 Adding required dependency automake1.9: Selecting version 1.9.6-11 for installation.
+2017/05/05 05:57:52 Adding required dependency bzip2: Selecting version 1.0.6-3 for installation.
+2017/05/05 05:57:52 Adding required dependency ca-certificates: Selecting version 2.14-1 for installation.
+2017/05/05 05:57:52 Adding required dependency desktop-file-utils: Selecting version 0.23-1 for installation.
+2017/05/05 05:57:52 Adding required dependency gamin: Selecting version 0.1.10-15 for installation.
+2017/05/05 05:57:52 Adding required dependency groff: Selecting version 1.22.3-1 for installation.
+2017/05/05 05:57:52 Adding required dependency gsettings-desktop-schemas: Selecting version 3.22.0-1 for installation.
+2017/05/05 05:57:52 Adding required dependency less: Selecting version 487-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libargp: Selecting version 20110921-3 for installation.
+2017/05/05 05:57:52 Adding required dependency libattr1: Selecting version 2.4.46-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libblkid1: Selecting version 2.25.2-2 for installation.
+2017/05/05 05:57:52 Adding required dependency libbz2_1: Selecting version 1.0.6-3 for installation.
+2017/05/05 05:57:52 Adding required dependency libcrypt0: Selecting version 1.4-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libdb5.3: Selecting version 5.3.28-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libfam0: Selecting version 0.1.10-15 for installation.
+2017/05/05 05:57:52 Adding required dependency libffi6: Selecting version 3.2.1-2 for installation.
+2017/05/05 05:57:52 Adding required dependency libgc1: Selecting version 7.2d-2 for installation.
+2017/05/05 05:57:52 Adding required dependency libgcc1: Selecting version 5.4.0-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libgdbm4: Selecting version 1.12-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libglib2.0_0: Selecting version 2.50.3-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libgmp10: Selecting version 6.1.2-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libguile17: Selecting version 1.8.8-3 for installation.
+2017/05/05 05:57:52 Adding required dependency libguile2.0_22: Selecting version 2.0.14-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libiconv: Selecting version 1.14-3 for installation.
+2017/05/05 05:57:52 Adding required dependency libiconv2: Selecting version 1.14-3 for installation.
+2017/05/05 05:57:52 Adding required dependency libintl8: Selecting version 0.19.8.1-2 for installation.
+2017/05/05 05:57:52 Adding required dependency libltdl7: Selecting version 2.4.6-4 for installation.
+2017/05/05 05:57:52 Adding required dependency liblzma5: Selecting version 5.2.2-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libmpfr4: Selecting version 3.1.5-1p2 for installation.
+2017/05/05 05:57:52 Adding required dependency libncursesw10: Selecting version 6.0-10.20170325 for installation.
+2017/05/05 05:57:52 Adding required dependency libp11-kit0: Selecting version 0.23.5-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libpcre1: Selecting version 8.40-3 for installation.
+2017/05/05 05:57:52 Adding required dependency libpipeline1: Selecting version 1.4.0-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libpopt-common: Selecting version 1.16-2 for installation.
+2017/05/05 05:57:52 Adding required dependency libpopt0: Selecting version 1.16-2 for installation.
+2017/05/05 05:57:52 Adding required dependency libsigsegv2: Selecting version 2.10-2 for installation.
+2017/05/05 05:57:52 Adding required dependency libsmartcols1: Selecting version 2.25.2-2 for installation.
+2017/05/05 05:57:52 Adding required dependency libssp0: Selecting version 5.4.0-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libstdc++6: Selecting version 5.4.0-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libtasn1_6: Selecting version 4.10-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libunistring2: Selecting version 0.9.6-1 for installation.
+2017/05/05 05:57:52 Adding required dependency libuuid1: Selecting version 2.25.2-2 for installation.
+2017/05/05 05:57:52 Adding required dependency libxml2: Selecting version 2.9.4-2 for installation.
+2017/05/05 05:57:52 Adding required dependency m4: Selecting version 1.4.18-1 for installation.
+2017/05/05 05:57:52 Adding required dependency p11-kit: Selecting version 0.23.5-1 for installation.
+2017/05/05 05:57:52 Adding required dependency p11-kit-trust: Selecting version 0.23.5-1 for installation.
+2017/05/05 05:57:52 Adding required dependency perl: Selecting version 5.22.3-1 for installation.
+2017/05/05 05:57:52 Adding required dependency perl-Carp: Selecting version 1.38-1 for installation.
+2017/05/05 05:57:52 Adding required dependency perl-Pod-Simple: Selecting version 3.35-1 for installation.
+2017/05/05 05:57:52 Adding required dependency perl-Unicode-Normalize: Selecting version 1.25-1 for installation.
+2017/05/05 05:57:52 Adding required dependency perl_autorebase: Selecting version 5.22.3-1 for installation.
+2017/05/05 05:57:52 Adding required dependency perl_base: Selecting version 5.22.3-1 for installation.
+2017/05/05 05:57:52 Adding required dependency shared-mime-info: Selecting version 1.7-1 for installation.
+2017/05/05 05:57:52 Adding required dependency texinfo: Selecting version 6.3-1 for installation.
+2017/05/05 05:57:52 Adding required dependency tzcode: Selecting version 2016j-1 for installation.
+2017/05/05 05:57:52 Adding required dependency xz: Selecting version 5.2.2-1 for installation.
+2017/05/05 05:57:52 Adding required dependency zlib0: Selecting version 1.2.11-1 for installation.
+2017/05/05 05:57:52 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001005-1.tar.xz
+2017/05/05 05:57:53 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2017/05/05 05:57:53 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/autoconf/autoconf-13-1.tar.bz2
+2017/05/05 05:57:55 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/autoconf2.1/autoconf2.1-2.13-12.tar.bz2
+2017/05/05 05:57:56 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/autoconf2.5/autoconf2.5-2.69-3.tar.xz
+2017/05/05 05:57:56 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake/automake-9-1.tar.bz2
+2017/05/05 05:57:58 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.10/automake1.10-1.10.3-2.tar.bz2
+2017/05/05 05:57:59 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.11/automake1.11-1.11.6-2.tar.bz2
+2017/05/05 05:58:01 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.12/automake1.12-1.12.6-2.tar.bz2
+2017/05/05 05:58:02 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.13/automake1.13-1.13.4-1.tar.bz2
+2017/05/05 05:58:04 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.14/automake1.14-1.14.1-2.tar.xz
+2017/05/05 05:58:05 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.15/automake1.15-1.15-1.tar.xz
+2017/05/05 05:58:06 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.4/automake1.4-1.4p6-11.tar.bz2
+2017/05/05 05:58:07 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.5/automake1.5-1.5-11.tar.bz2
+2017/05/05 05:58:09 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.6/automake1.6-1.6.3-12.tar.bz2
+2017/05/05 05:58:10 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.7/automake1.7-1.7.9-11.tar.bz2
+2017/05/05 05:58:11 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.8/automake1.8-1.8.5-11.tar.bz2
+2017/05/05 05:58:12 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.9/automake1.9-1.9.6-11.tar.bz2
+2017/05/05 05:58:13 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2017/05/05 05:58:14 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-files/base-files-4.2-4.tar.xz
+2017/05/05 05:58:16 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bash/bash-4.4.12-3.tar.xz
+2017/05/05 05:58:16 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.6-3.tar.xz
+2017/05/05 05:58:17 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2.14-1.tar.xz
+2017/05/05 05:58:20 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/coreutils/coreutils-8.26-2.tar.xz
+2017/05/05 05:58:20 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.15-2.tar.xz
+2017/05/05 05:58:22 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-2.8.0-1.tar.xz
+2017/05/05 05:58:23 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/dash/dash-0.5.9.1-1.tar.xz
+2017/05/05 05:58:24 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/desktop-file-utils/desktop-file-utils-0.23-1.tar.xz
+2017/05/05 05:58:25 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.5-2.tar.xz
+2017/05/05 05:58:26 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+2017/05/05 05:58:27 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/file/file-5.30-1.tar.xz
+2017/05/05 05:58:28 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/findutils/findutils-4.6.0-1.tar.xz
+2017/05/05 05:58:29 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gamin/gamin-0.1.10-15.tar.xz
+2017/05/05 05:58:31 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gawk/gawk-4.1.4-3.tar.xz
+2017/05/05 05:58:31 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+2017/05/05 05:58:32 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/grep/grep-3.0-2.tar.xz
+2017/05/05 05:58:35 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/groff/groff-1.22.3-1.tar.xz
+2017/05/05 05:58:36 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/gsettings-desktop-schemas/gsettings-desktop-schemas-3.22.0-1.tar.xz
+2017/05/05 05:58:37 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gzip/gzip-1.8-1.tar.xz
+2017/05/05 05:58:38 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2017/05/05 05:58:39 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/texinfo/info/info-6.3-1.tar.xz
+2017/05/05 05:58:39 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2017/05/05 05:58:40 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/less/less-487-1.tar.xz
+2017/05/05 05:58:41 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-3.tar.xz
+2017/05/05 05:58:41 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2017/05/05 05:58:42 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2017/05/05 05:58:43 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz
+2017/05/05 05:58:43 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/crypt/libcrypt0/libcrypt0-1.4-1.tar.xz
+2017/05/05 05:58:45 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/db/libdb5.3/libdb5.3-5.3.28-1.tar.xz
+2017/05/05 05:58:45 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gamin/libfam0/libfam0-0.1.10-15.tar.xz
+2017/05/05 05:58:46 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz
+2017/05/05 05:58:47 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libgc/libgc1/libgc1-7.2d-2.tar.bz2
+2017/05/05 05:58:48 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-5.4.0-1.tar.xz
+2017/05/05 05:58:48 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz
+2017/05/05 05:58:51 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/glib2.0/libglib2.0_0/libglib2.0_0-2.50.3-1.tar.xz
+2017/05/05 05:58:52 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz
+2017/05/05 05:58:53 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/guile1.8/libguile17/libguile17-1.8.8-3.tar.xz
+2017/05/05 05:58:55 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/guile/libguile2.0_22/libguile2.0_22-2.0.14-1.tar.xz
+2017/05/05 05:58:56 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz
+2017/05/05 05:58:58 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2017/05/05 05:58:58 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+2017/05/05 05:58:59 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtool/libltdl7/libltdl7-2.4.6-4.tar.xz
+2017/05/05 05:59:00 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.2-1.tar.xz
+2017/05/05 05:59:01 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mpfr/libmpfr4/libmpfr4-3.1.5-1p2.tar.xz
+2017/05/05 05:59:02 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.0-10.20170325.tar.xz
+2017/05/05 05:59:03 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.2k-1.tar.xz
+2017/05/05 05:59:04 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.5-1.tar.xz
+2017/05/05 05:59:06 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.40-3.tar.xz
+2017/05/05 05:59:06 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2017/05/05 05:59:07 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+2017/05/05 05:59:08 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+2017/05/05 05:59:09 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+2017/05/05 05:59:09 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2017/05/05 05:59:10 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2017/05/05 05:59:10 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libssp0/libssp0-5.4.0-1.tar.xz
+2017/05/05 05:59:12 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-5.4.0-1.tar.xz
+2017/05/05 05:59:12 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.10-1.tar.xz
+2017/05/05 05:59:14 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libunistring/libunistring2/libunistring2-0.9.6-1.tar.xz
+2017/05/05 05:59:15 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2017/05/05 05:59:17 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libxml2/libxml2-2.9.4-2.tar.xz
+2017/05/05 05:59:18 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/login/login-1.11-1.tar.xz
+2017/05/05 05:59:20 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/m4/m4-1.4.18-1.tar.xz
+2017/05/05 05:59:22 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/make/make-4.2.1-2.tar.xz
+2017/05/05 05:59:24 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/man-db/man-db-2.7.5-2.tar.xz
+2017/05/05 05:59:26 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mintty/mintty-2.7.6-0.tar.xz
+2017/05/05 05:59:27 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.0-10.20170325.tar.xz
+2017/05/05 05:59:30 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-1.0.2k-1.tar.xz
+2017/05/05 05:59:30 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.23.5-1.tar.xz
+2017/05/05 05:59:31 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.5-1.tar.xz
+2017/05/05 05:59:38 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl/perl-5.22.3-1.tar.xz
+2017/05/05 05:59:38 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/perl-Carp/perl-Carp-1.38-1.tar.xz
+2017/05/05 05:59:39 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/perl-Pod-Simple/perl-Pod-Simple-3.35-1.tar.xz
+2017/05/05 05:59:40 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Unicode-Normalize/perl-Unicode-Normalize-1.25-1.tar.xz
+2017/05/05 05:59:41 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl/perl_autorebase/perl_autorebase-5.22.3-1.tar.xz
+2017/05/05 05:59:44 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl/perl_base/perl_base-5.22.3-1.tar.xz
+2017/05/05 05:59:45 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pkg-config/pkg-config-0.29.1-1.tar.xz
+2017/05/05 05:59:46 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.2-1.tar.xz
+2017/05/05 05:59:47 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+2017/05/05 05:59:48 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sed/sed-4.4-1.tar.xz
+2017/05/05 05:59:50 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/shared-mime-info/shared-mime-info-1.7-1.tar.xz
+2017/05/05 05:59:53 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tar/tar-1.29-1.tar.xz
+2017/05/05 05:59:54 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.0-10.20170325.tar.xz
+2017/05/05 05:59:56 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/texinfo/texinfo-6.3-1.tar.xz
+2017/05/05 05:59:57 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tzcode/tzcode-2016j-1.tar.xz
+2017/05/05 05:59:58 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/tzdata/tzdata-2017b-1.tar.xz
+2017/05/05 06:00:01 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.25.2-2.tar.xz
+2017/05/05 06:00:03 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-8.0.0542-1.tar.xz
+2017/05/05 06:00:03 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2017/05/05 06:00:04 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/xz-5.2.2-1.tar.xz
+2017/05/05 06:00:05 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2017/05/05 06:00:13 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/_autorebase/_autorebase-001005-1.tar.xz
+2017/05/05 06:00:13 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2017/05/05 06:00:13 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/autoconf/autoconf-13-1.tar.bz2
+2017/05/05 06:00:13 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/autoconf2.1/autoconf2.1-2.13-12.tar.bz2
+2017/05/05 06:00:14 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/autoconf2.5/autoconf2.5-2.69-3.tar.xz
+2017/05/05 06:00:14 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake/automake-9-1.tar.bz2
+2017/05/05 06:00:14 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.10/automake1.10-1.10.3-2.tar.bz2
+2017/05/05 06:00:15 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.11/automake1.11-1.11.6-2.tar.bz2
+2017/05/05 06:00:15 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.12/automake1.12-1.12.6-2.tar.bz2
+2017/05/05 06:00:20 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.13/automake1.13-1.13.4-1.tar.bz2
+2017/05/05 06:00:25 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.14/automake1.14-1.14.1-2.tar.xz
+2017/05/05 06:00:27 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.15/automake1.15-1.15-1.tar.xz
+2017/05/05 06:00:28 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.4/automake1.4-1.4p6-11.tar.bz2
+2017/05/05 06:00:28 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.5/automake1.5-1.5-11.tar.bz2
+2017/05/05 06:00:32 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.6/automake1.6-1.6.3-12.tar.bz2
+2017/05/05 06:00:33 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.7/automake1.7-1.7.9-11.tar.bz2
+2017/05/05 06:00:34 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.8/automake1.8-1.8.5-11.tar.bz2
+2017/05/05 06:00:35 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/automake1.9/automake1.9-1.9.6-11.tar.bz2
+2017/05/05 06:00:37 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2017/05/05 06:00:37 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/base-files/base-files-4.2-4.tar.xz
+2017/05/05 06:00:37 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bash/bash-4.4.12-3.tar.xz
+2017/05/05 06:00:40 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.6-3.tar.xz
+2017/05/05 06:00:40 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/ca-certificates/ca-certificates-2.14-1.tar.xz
+2017/05/05 06:00:41 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/coreutils/coreutils-8.26-2.tar.xz
+2017/05/05 06:00:44 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.15-2.tar.xz
+2017/05/05 06:00:44 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-2.8.0-1.tar.xz
+2017/05/05 06:00:45 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/dash/dash-0.5.9.1-1.tar.xz
+2017/05/05 06:00:45 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/desktop-file-utils/desktop-file-utils-0.23-1.tar.xz
+2017/05/05 06:00:45 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.5-2.tar.xz
+2017/05/05 06:00:50 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/editrights/editrights-1.03-1.tar.xz
+2017/05/05 06:00:50 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/file/file-5.30-1.tar.xz
+2017/05/05 06:00:50 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/findutils/findutils-4.6.0-1.tar.xz
+2017/05/05 06:00:50 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gamin/gamin-0.1.10-15.tar.xz
+2017/05/05 06:00:52 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gawk/gawk-4.1.4-3.tar.xz
+2017/05/05 06:00:54 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/getent/getent-2.18.90-4.tar.xz
+2017/05/05 06:00:54 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/grep/grep-3.0-2.tar.xz
+2017/05/05 06:00:54 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/groff/groff-1.22.3-1.tar.xz
+2017/05/05 06:01:02 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/gsettings-desktop-schemas/gsettings-desktop-schemas-3.22.0-1.tar.xz
+2017/05/05 06:01:03 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gzip/gzip-1.8-1.tar.xz
+2017/05/05 06:01:03 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2017/05/05 06:01:03 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/texinfo/info/info-6.3-1.tar.xz
+2017/05/05 06:01:06 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2017/05/05 06:01:06 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/less/less-487-1.tar.xz
+2017/05/05 06:01:07 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libargp/libargp-20110921-3.tar.xz
+2017/05/05 06:01:07 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2017/05/05 06:01:07 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2017/05/05 06:01:07 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-3.tar.xz
+2017/05/05 06:01:07 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/crypt/libcrypt0/libcrypt0-1.4-1.tar.xz
+2017/05/05 06:01:07 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/db/libdb5.3/libdb5.3-5.3.28-1.tar.xz
+2017/05/05 06:01:07 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gamin/libfam0/libfam0-0.1.10-15.tar.xz
+2017/05/05 06:01:07 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libffi/libffi6/libffi6-3.2.1-2.tar.xz
+2017/05/05 06:01:07 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libgc/libgc1/libgc1-7.2d-2.tar.bz2
+2017/05/05 06:01:08 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-5.4.0-1.tar.xz
+2017/05/05 06:01:08 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.12-1.tar.xz
+2017/05/05 06:01:08 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/glib2.0/libglib2.0_0/libglib2.0_0-2.50.3-1.tar.xz
+2017/05/05 06:01:10 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-6.1.2-1.tar.xz
+2017/05/05 06:01:10 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/guile1.8/libguile17/libguile17-1.8.8-3.tar.xz
+2017/05/05 06:01:12 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/guile/libguile2.0_22/libguile2.0_22-2.0.14-1.tar.xz
+2017/05/05 06:01:21 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv-1.14-3.tar.xz
+2017/05/05 06:01:21 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2017/05/05 06:01:21 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.19.8.1-2.tar.xz
+2017/05/05 06:01:21 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtool/libltdl7/libltdl7-2.4.6-4.tar.xz
+2017/05/05 06:01:21 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.2.2-1.tar.xz
+2017/05/05 06:01:21 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mpfr/libmpfr4/libmpfr4-3.1.5-1p2.tar.xz
+2017/05/05 06:01:21 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-6.0-10.20170325.tar.xz
+2017/05/05 06:01:21 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.2k-1.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.23.5-1.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.40-3.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-7.0.3-3.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libssp0/libssp0-5.4.0-1.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-5.4.0-1.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-4.10-1.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libunistring/libunistring2/libunistring2-0.9.6-1.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libxml2/libxml2-2.9.4-2.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/login/login-1.11-1.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/m4/m4-1.4.18-1.tar.xz
+2017/05/05 06:01:22 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/make/make-4.2.1-2.tar.xz
+2017/05/05 06:01:23 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/man-db/man-db-2.7.5-2.tar.xz
+2017/05/05 06:01:27 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mintty/mintty-2.7.6-0.tar.xz
+2017/05/05 06:01:30 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/ncurses-6.0-10.20170325.tar.xz
+2017/05/05 06:01:30 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-1.0.2k-1.tar.xz
+2017/05/05 06:01:30 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.23.5-1.tar.xz
+2017/05/05 06:01:31 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.23.5-1.tar.xz
+2017/05/05 06:01:31 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl/perl-5.22.3-1.tar.xz
+2017/05/05 06:01:46 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/perl-Carp/perl-Carp-1.38-1.tar.xz
+2017/05/05 06:01:46 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/perl-Pod-Simple/perl-Pod-Simple-3.35-1.tar.xz
+2017/05/05 06:01:47 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl-Unicode-Normalize/perl-Unicode-Normalize-1.25-1.tar.xz
+2017/05/05 06:01:47 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl/perl_autorebase/perl_autorebase-5.22.3-1.tar.xz
+2017/05/05 06:01:47 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl/perl_base/perl_base-5.22.3-1.tar.xz
+2017/05/05 06:01:54 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pkg-config/pkg-config-0.29.1-1.tar.xz
+2017/05/05 06:01:54 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.2-1.tar.xz
+2017/05/05 06:01:55 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/run/run-1.3.4-2.tar.xz
+2017/05/05 06:01:55 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sed/sed-4.4-1.tar.xz
+2017/05/05 06:01:55 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/shared-mime-info/shared-mime-info-1.7-1.tar.xz
+2017/05/05 06:01:55 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tar/tar-1.29-1.tar.xz
+2017/05/05 06:01:56 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-6.0-10.20170325.tar.xz
+2017/05/05 06:01:56 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/texinfo/texinfo-6.3-1.tar.xz
+2017/05/05 06:01:58 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tzcode/tzcode-2016j-1.tar.xz
+2017/05/05 06:01:58 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/noarch/release/tzdata/tzdata-2017b-1.tar.xz
+2017/05/05 06:02:14 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/util-linux/util-linux-2.25.2-2.tar.xz
+2017/05/05 06:02:15 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-8.0.0542-1.tar.xz
+2017/05/05 06:02:16 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2017/05/05 06:02:16 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/xz-5.2.2-1.tar.xz
+2017/05/05 06:02:16 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.11-1.tar.xz
+2017/05/05 06:02:16 Changing gid back to original
+2017/05/05 06:02:16 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/05/05 06:02:25 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/05/05 06:02:28 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2017/05/05 06:02:28 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2017/05/05 06:02:28 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2017/05/05 06:02:28 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/autoconf.sh"
+2017/05/05 06:02:28 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.10.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.11.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.12.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.13.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.4.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.5.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.6.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.7.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.8.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.9.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/automake.sh"
+2017/05/05 06:02:29 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2017/05/05 06:02:30 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2017/05/05 06:02:31 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2017/05/05 06:02:33 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/libxml2.sh"
+2017/05/05 06:02:33 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2017/05/05 06:02:33 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2017/05/05 06:02:33 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/05/05 06:02:33 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/05/05 06:02:34 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_man-db.sh"
+2017/05/05 06:02:34 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/05/05 06:02:36 Changing gid to Administrators
+2017/05/05 06:02:54 note: Installation Complete
+2017/05/05 06:02:54 Ending cygwin install
+2017/05/05 06:12:51 Starting cygwin install, version 2.877
+2017/05/05 06:12:51 User has backup/restore rights
+2017/05/05 06:12:51 Current Directory: E:\cygwin
+2017/05/05 06:12:51 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/05/05 06:12:53 source: network install
+2017/05/05 06:12:54 root: C:\cygwin64 system
+2017/05/05 06:12:55 Selected local directory: E:\cygwin
+2017/05/05 06:12:56 net: Direct
+2017/05/05 06:12:58 site: http://mirrors.kernel.org/sourceware/cygwin/
+2017/05/05 06:13:44 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/unzip/unzip-6.0-16.tar.xz
+2017/05/05 06:13:46 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zip/zip-3.0-12.tar.xz
+2017/05/05 06:13:53 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/unzip/unzip-6.0-16.tar.xz
+2017/05/05 06:13:53 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zip/zip-3.0-12.tar.xz
+2017/05/05 06:13:53 Changing gid back to original
+2017/05/05 06:13:53 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/05/05 06:13:55 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/05/05 06:13:56 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/05/05 06:13:56 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/05/05 06:13:56 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_man-db.sh"
+2017/05/05 06:13:56 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/05/05 06:13:56 Changing gid to Administrators
+2017/05/05 06:14:00 note: Installation Complete
+2017/05/05 06:14:00 Ending cygwin install

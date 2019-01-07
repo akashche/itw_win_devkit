@@ -1,0 +1,110 @@
+2017/05/05 06:12:51 Starting cygwin install, version 2.877
+2017/05/05 06:12:51 User has backup/restore rights
+2017/05/05 06:12:51 Current Directory: E:\cygwin
+2017/05/05 06:12:51 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/05/05 06:12:53 source: network install
+2017/05/05 06:12:54 root: C:\cygwin64 system
+2017/05/05 06:12:55 Selected local directory: E:\cygwin
+2017/05/05 06:12:56 net: Direct
+Loaded cached mirror list
+get_url_to_membuf http://cygwin.com/mirrors.lst
+getUrlToStream http://cygwin.com/mirrors.lst
+2017/05/05 06:12:58 site: http://mirrors.kernel.org/sourceware/cygwin/
+get_url_to_membuf http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.xz.sig
+getUrlToStream http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.xz.sig
+get_url_to_membuf http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.xz
+getUrlToStream http://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.xz
+compress_xz::bid_xz: success: 48
+compress_xz::bid_xz: success: 48
+INSTALLED.DB version 3
+.ini setup_version is 2.877, our setup_version is 2.877
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin/x86_64/release/unzip/unzip-6.0-16.tar.xz E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/unzip/unzip-6.0-16.tar.xz.tmp
+2017/05/05 06:13:44 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/unzip/unzip-6.0-16.tar.xz
+get_url_to_file http://mirrors.kernel.org/sourceware/cygwin/x86_64/release/zip/zip-3.0-12.tar.xz E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zip/zip-3.0-12.tar.xz.tmp
+2017/05/05 06:13:46 Downloaded E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zip/zip-3.0-12.tar.xz
+Checking SHA512 for file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/unzip/unzip-6.0-16.tar.xz
+SHA512 verified OK: file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/unzip/unzip-6.0-16.tar.xz 93d3c787539947f2e5cda900671669e5d7c6577e949c48884a8baa2d1a2df55ac6370c9fe993610c89817f9cc22cc74e9d3b6e3a1f9063268861dd842e1d66e6
+Checking SHA512 for file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zip/zip-3.0-12.tar.xz
+SHA512 verified OK: file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zip/zip-3.0-12.tar.xz 06e20e667ac617c320381b965f58595d022ad20f87b531a9bab3c371c0ff67314dfb35a86ae6b6ef642850ec3149ed92ffe56250e3da8d7eb5bda705cf3ff193
+compress_xz::bid_xz: success: 48
+compress_xz::bid_xz: success: 48
+2017/05/05 06:13:53 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/unzip/unzip-6.0-16.tar.xz
+Installing file cygfile:///usr/
+Installing file cygfile:///usr/bin/
+Installing file cygfile:///usr/bin/funzip.exe
+Installing file cygfile:///usr/bin/unzip.exe
+Installing file cygfile:///usr/bin/unzipsfx.exe
+Installing file cygfile:///usr/bin/zipgrep
+Installing file cygfile:///usr/bin/zipinfo
+io_stream::mklink (cygfile:///usr/bin/zipinfo->cygfile://unzip)
+Installing file cygfile:///usr/lib/
+Installing file cygfile:///usr/share/
+Installing file cygfile:///usr/share/doc/
+Installing file cygfile:///usr/share/doc/unzip/
+Installing file cygfile:///usr/share/doc/unzip/BUGS
+Installing file cygfile:///usr/share/doc/unzip/funzip.txt
+Installing file cygfile:///usr/share/doc/unzip/History.600
+Installing file cygfile:///usr/share/doc/unzip/LICENSE
+Installing file cygfile:///usr/share/doc/unzip/README
+Installing file cygfile:///usr/share/doc/unzip/TODO
+Installing file cygfile:///usr/share/doc/unzip/unzip.txt
+Installing file cygfile:///usr/share/doc/unzip/unzipsfx.txt
+Installing file cygfile:///usr/share/doc/unzip/WHERE
+Installing file cygfile:///usr/share/doc/unzip/zipgrep.txt
+Installing file cygfile:///usr/share/doc/unzip/zipinfo.txt
+Installing file cygfile:///usr/share/man/
+Installing file cygfile:///usr/share/man/man1/
+Installing file cygfile:///usr/share/man/man1/funzip.1.gz
+Installing file cygfile:///usr/share/man/man1/unzip.1.gz
+Installing file cygfile:///usr/share/man/man1/unzipsfx.1.gz
+Installing file cygfile:///usr/share/man/man1/zipgrep.1.gz
+Installing file cygfile:///usr/share/man/man1/zipinfo.1.gz
+compress_xz::bid_xz: success: 48
+compress_xz::bid_xz: success: 48
+2017/05/05 06:13:53 Extracting from file://E:\cygwin/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zip/zip-3.0-12.tar.xz
+Installing file cygfile:///usr/
+Installing file cygfile:///usr/bin/
+Installing file cygfile:///usr/bin/zip.exe
+Installing file cygfile:///usr/bin/zipcloak.exe
+Installing file cygfile:///usr/bin/zipnote.exe
+Installing file cygfile:///usr/bin/zipsplit.exe
+Installing file cygfile:///usr/lib/
+Installing file cygfile:///usr/share/
+Installing file cygfile:///usr/share/doc/
+Installing file cygfile:///usr/share/doc/zip/
+Installing file cygfile:///usr/share/doc/zip/BUGS
+Installing file cygfile:///usr/share/doc/zip/CHANGES
+Installing file cygfile:///usr/share/doc/zip/LICENSE
+Installing file cygfile:///usr/share/doc/zip/README
+Installing file cygfile:///usr/share/doc/zip/TODO
+Installing file cygfile:///usr/share/doc/zip/WHATSNEW
+Installing file cygfile:///usr/share/man/
+Installing file cygfile:///usr/share/man/man1/
+Installing file cygfile:///usr/share/man/man1/zip.1.gz
+Installing file cygfile:///usr/share/man/man1/zipcloak.1.gz
+Installing file cygfile:///usr/share/man/man1/zipnote.1.gz
+Installing file cygfile:///usr/share/man/man1/zipsplit.1.gz
+2017/05/05 06:13:53 Changing gid back to original
+Visited: 112 nodes out of 9648 while creating dependency order.
+Dependency order of packages: base-cygwin cygwin dash _autorebase libiconv2 libintl8 alternatives libattr1 libgmp10 tzdata libgcc1 libstdc++6 terminfo libncursesw10 libreadline7 tzcode coreutils bash info libsigsegv2 m4 libcrypt0 libdb5.3 libgdbm4 libssp0 perl_autorebase perl_base perl autoconf2.1 autoconf2.5 sed autoconf perl-Pod-Simple perl-Unicode-Normalize texinfo liblzma5 xz automake1.10 automake1.11 automake1.12 automake1.13 perl-Carp automake1.14 automake1.15 automake1.4 automake1.5 automake1.6 automake1.7 automake1.8 automake1.9 libmpfr4 gawk automake findutils base-files libbz2_1 bzip2 libffi6 libp11-kit0 libtasn1_6 p11-kit p11-kit-trust ca-certificates libpopt-common libpopt0 cygutils libpcre1 zlib0 libxml2 shared-mime-info gamin libfam0 pkg-config gsettings-desktop-schemas libglib2.0_0 desktop-file-utils diffutils editrights file libargp getent grep groff gzip hostname ipc-utils less libuuid1 libblkid1 libgc1 libltdl7 libguile17 libunistring2 libguile2.0_22 libiconv libopenssl100 libpipeline1 libsmartcols1 login make util-linux man-db mintty ncurses openssl rebase run tar unzip vim-minimal which zip 
+2017/05/05 06:13:53 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+Updating package information in /var/cache/rebase/rebase_pkg.
+	from /etc/setup/unzip.lst.gz...
+	from /etc/setup/zip.lst.gz...
+Updating rebase information for installed dynamic objects in /var/cache/rebase/rebase_lst.
+Updating rebase information for installed executables in /var/cache/rebase/rebase_exe.
+removing /var/cache/rebase/rebase_dyn
+creating empty /var/cache/rebase/rebase_dyn
+Updating rebase information for user-defined dynamic objects /var/cache/rebase/rebase_user.
+Updating rebase information for user-defined executables /var/cache/rebase/rebase_user_exe.
+Rebasing with list /var/cache/rebase/rebase_all, built from /var/cache/rebase/rebase_lst /var/cache/rebase/rebase_dyn /var/cache/rebase/rebase_user.
+2017/05/05 06:13:55 running: C:\cygwin64\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/05/05 06:13:56 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/05/05 06:13:56 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/05/05 06:13:56 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_man-db.sh"
+2017/05/05 06:13:56 running: C:\cygwin64\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/05/05 06:13:56 Changing gid to Administrators
+Program directory for program link: C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+Desktop directory for desktop link: C:\Users\Public\Desktop
+2017/05/05 06:14:00 note: Installation Complete
+2017/05/05 06:14:00 Ending cygwin install
